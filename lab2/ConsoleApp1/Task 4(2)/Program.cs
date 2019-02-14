@@ -1,34 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Task3
-{
-    class Program
-    {
-        static void Print_info(FileSystemInfo fi, int nmspc)
-        {
+namespace Task3{
+    class Program{
+        static void Print_info(FileSystemInfo file, int nmspc){ // принмает путь и 
             string s = new string(' ', nmspc);
-            s = s + fi.Name;
+            s = s + file.Name;
             Console.WriteLine(s);
-
-            if ( fi.GetType() ==  typeof(DirectoryInfo))
-            {
-                var v = (fi as DirectoryInfo).GetFileSystemInfos();
-                foreach (var n in v)
-                {
+            if ( file.GetType() ==  typeof(DirectoryInfo)){
+                var v = (file as DirectoryInfo).GetFileSystemInfos();
+                foreach (var n in v){
                     Print_info(n, nmspc + 3);
                 }
             }
 
         }
-        static void Main(string[] args)
-        {
-            DirectoryInfo di = new DirectoryInfo(@"C:\Users\win10\Desktop");
-            Print_info(di, 1);
+        static void Main(string[] args){
+            DirectoryInfo directory = new DirectoryInfo(@"C:\Users\win10\Desktop"); // путь
+            Print_info(directory, 1);
         }
     }
 }

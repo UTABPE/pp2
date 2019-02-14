@@ -9,3 +9,14 @@ C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 3\bin\Debug\netcoreapp2.1\Tas
 C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 3\bin\Debug\netcoreapp2.1\Task 3.pdb
 C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 3\obj\Debug\netcoreapp2.1\Task 3.dll
 C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 3\obj\Debug\netcoreapp2.1\Task 3.pdb
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\bin\Debug\netcoreapp2.1\Task 3.deps.json
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\bin\Debug\netcoreapp2.1\Task 3.runtimeconfig.json
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\bin\Debug\netcoreapp2.1\Task 3.runtimeconfig.dev.json
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\bin\Debug\netcoreapp2.1\Task 3.dll
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\bin\Debug\netcoreapp2.1\Task 3.pdb
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\obj\Debug\netcoreapp2.1\Task 3.csprojAssemblyReference.cache
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\obj\Debug\netcoreapp2.1\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\obj\Debug\netcoreapp2.1\Task 3.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\obj\Debug\netcoreapp2.1\Task 3.AssemblyInfo.cs
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\obj\Debug\netcoreapp2.1\Task 3.dll
+C:\Users\win10\Desktop\pp2\Git\lab2\ConsoleApp1\Task 3\obj\Debug\netcoreapp2.1\Task 3.pdb

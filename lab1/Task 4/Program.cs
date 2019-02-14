@@ -6,9 +6,9 @@ namespace ConsoleApp1{
             Console.Clear();
             for (int i = 1; i <= n; i++){
                 for (int j = 1; j <= i; j++){
-                    Console.Write("[*]");
+                    Console.Write("[*]"); // звездночки 
                 }
-                Console.WriteLine();
+                Console.WriteLine(); // новая строка
             }
         }
     }

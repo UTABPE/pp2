@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win10\\Desktop\\pp2\\lab2\\2\\ConsoleApp1\\ConsoleApp1\\Task 2.csproj",
+      "projectUniqueName": "C:\\Users\\win10\\Desktop\\pp2\\Git\\lab2\\ConsoleApp1\\ConsoleApp1\\Task 2.csproj",
       "projectName": "Task 2",
-      "projectPath": "C:\\Users\\win10\\Desktop\\pp2\\lab2\\2\\ConsoleApp1\\ConsoleApp1\\Task 2.csproj",
+      "projectPath": "C:\\Users\\win10\\Desktop\\pp2\\Git\\lab2\\ConsoleApp1\\ConsoleApp1\\Task 2.csproj",
       "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win10\\Desktop\\pp2\\lab2\\2\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\win10\\Desktop\\pp2\\Git\\lab2\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

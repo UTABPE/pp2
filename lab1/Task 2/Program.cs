@@ -7,16 +7,16 @@ namespace ConsoleApp1{
         public Class(string name, string id, string year){
             this.name = name;
             this.id = id;
-            this.year = year;
+            this.year = year; // переменные
         }
         public void PrintInfo(){
-            Console.WriteLine(name + " " + id + " " + year);
+            Console.WriteLine(name + " " + id + " " + year); // Вывод
         }
     }
     class Program{
         static void Main(string[] args){
             Class s = new Class("Aba", "123", "1");
-            s.PrintInfo();
+            s.PrintInfo(); // вызов
         }
     }
 }
