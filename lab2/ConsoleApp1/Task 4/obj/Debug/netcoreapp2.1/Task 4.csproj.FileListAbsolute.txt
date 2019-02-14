@@ -1,0 +1,11 @@
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\bin\Debug\netcoreapp2.1\Task 4.deps.json
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\bin\Debug\netcoreapp2.1\Task 4.runtimeconfig.json
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\bin\Debug\netcoreapp2.1\Task 4.runtimeconfig.dev.json
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\bin\Debug\netcoreapp2.1\Task 4.dll
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\bin\Debug\netcoreapp2.1\Task 4.pdb
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\obj\Debug\netcoreapp2.1\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\obj\Debug\netcoreapp2.1\Task 4.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\obj\Debug\netcoreapp2.1\Task 4.AssemblyInfo.cs
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\obj\Debug\netcoreapp2.1\Task 4.dll
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\obj\Debug\netcoreapp2.1\Task 4.pdb
+C:\Users\win10\Desktop\pp2\lab2\2\ConsoleApp1\Task 4\obj\Debug\netcoreapp2.1\Task 4.csprojAssemblyReference.cache
